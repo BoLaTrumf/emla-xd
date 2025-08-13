@@ -1,0 +1,16 @@
+{
+  "name": "taixiu-api",
+  "version": "1.0.0",
+  "description": "API dự đoán Tài Xỉu theo pattern MD5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["taixiu", "api", "md5", "dudoan"],
+  "author": "binhtool90",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
